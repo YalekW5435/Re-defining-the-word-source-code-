@@ -1,0 +1,25 @@
+0x1: Gonna put this out here for those who do not understand.   I have been increasingly frustrated with how people use the word
+"code".  The term "code" is extremely stupid when referring to text that makes something happen.  Its text.  JUST TEXT.  Alright?  
+
+0x2: There are far better terms than just "code" or "source code".  Let me explain.
+
+0x3: In a command line, you write *text* in either bash (linux) or (in windows) batch.  But its structured.  Which is why it
+need to be called "source text" or "scripture".  This is comparing to ancient text documents like holy book scripture, such as
+the bible, Quran, Tanakh, etc.  "Script" is too generic and used messively.
+
+0x4: Unity makes use of the word "script" when referring to their C# scripture.  << Notice, I didnt use "code".
+
+0x5: You will also notice "C#, C++, C, Rust, F#, JavaScript", etc.  THEY ARE ALL LANGUAGES like we speak daily!! It has *nothing*
+to do with the word "code". Machine code should also refer to as "machine-read text".  Think of English, spanish, french, chinese?
+All those are used in similar here!!
+
+0x6: Encountering encryption, thats ALSO TEXT.  It would be best to use "scrambled algorithmic text".  NOT encryption.  Sorry!!
+
+0x7: The reason I request the terms that this whole site uses to be changed is because it is confusing to me.  It nails down
+to text.  
+
+0x8: Hex, decimal? ASCII?  THEY ARE NOT CODE.  They are ways of "organizing said text" into a manner readable in base2 form.
+
+0x9: Data types such as char, int, long, DWORD, SWORD (24 bit int).  They are ALL DATATYPES.  Also known as "organized datatypes".
+
+0xa: End of discussion.
